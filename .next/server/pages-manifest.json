@@ -1,0 +1,9 @@
+{
+  "/_app": "pages/_app.js",
+  "/_document": "pages/_document.js",
+  "/_error": "pages/_error.js",
+  "/": "pages/index.html",
+  "/policies/privacy-policy": "pages/policies/privacy-policy.html",
+  "/policies/terms-of-service": "pages/policies/terms-of-service.html",
+  "/404": "pages/404.html"
+}
